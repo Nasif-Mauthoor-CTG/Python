@@ -1,3 +1,5 @@
+import random # Use this to get random numbers
+
 # Project 4
 # Coin Toss Game
 # Goal: Create a simple game that will flip a coin randomly.
